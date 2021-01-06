@@ -30,7 +30,7 @@
             path:"/theme",
         },
         {
-            title:"Posts",
+            title:"Post",
             subtitle:"di cui ne vado fiero",
             path:"/posts",
         },

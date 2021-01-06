@@ -4,8 +4,8 @@
     let posts=[];
 </script>
 <ContentContainer 
-    pageTitle="Posts"
-    pageDescription="Ecco alcuni dei miei Posts, potrebbe volerci del tempo per leggere, ma ne varrà sicuramente la pena!">
+    pageTitle="Post"
+    pageDescription="Ecco alcuni dei miei Post. Potrebbe volerci del tempo per leggere, ma ne varrà sicuramente la pena!">
 
     <CardsList 
         items={posts} 
