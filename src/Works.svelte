@@ -3,6 +3,13 @@
     import CardsList from './CardsList.svelte';
     let articles=[
         {
+            title:"G-quiz: un quiz sulle Capitali!",
+            description:"un piccolo progetto in cui ho realizzato un quiz sulle capitali Europee, sviluppato in vue usando quasar per lo scaffolding e i suoi componenti. È un progetto statefull quidi totalmente dipendente dallo store Vuex. per visitare la repository git: https://github.com/majkl-zumberi/G-quiz, oppure per iniziare a giocare puoi cliccare direttamente il titolo di questo post!",
+            path:"https://g-quiz.vercel.app",
+            duration:"1min",
+            date:"20 gen 2021"
+        },
+        {
             title:"Progetto Ministeriale con Jobs Academy",
             description:"è stato un progetto svolto assieme a dei miei compagni della jobs Academy per un progetto ministeriale, dove abbiamo creato un connettore (sviluppato in Node-Red) che fa da ponte di comunicazione tra e-commerce e la stampante 3D",
             path:"http://www.its40.it/wp/portfolio_page/make-it-unique/",
