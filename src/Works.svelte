@@ -3,6 +3,20 @@
     import CardsList from './CardsList.svelte';
     let articles=[
         {
+            title:"Covid-tracker",
+            description:"un'applicazione web che mostra dati relativi al covid-19, casi e decessi, dosi dei vaccini somministrati e dati relativi alla mobilità rispetto al 13 gennaio 2020. Per visualizzare la repository git: https://github.com/majkl-zumberi/covid-tracker oppure se vuoi visitare l'app puoi cliccare direttamente il titolo di questo post!",
+            path:"https://covid-tracker-majkl-zumberi.vercel.app",
+            duration:"1min",
+            date:"10 apr 2021"
+        },
+        {
+            title:"Vuety-weather",
+            description:"un'applicazione web per la previsione meteo tramite API (openweathermap.org) sviluppata in Vue con Vuetify!",
+            path:"https://github.com/majkl-zumberi/vuety-weather",
+            duration:"1min",
+            date:"27 feb 2021"
+        },
+        {
             title:"G-quiz: un quiz sulle Capitali!",
             description:"un piccolo progetto in cui ho realizzato un quiz sulle capitali Europee, sviluppato in vue usando quasar per lo scaffolding e i suoi componenti. È un progetto statefull quidi totalmente dipendente dallo store Vuex. per visitare la repository git: https://github.com/majkl-zumberi/G-quiz, oppure per iniziare a giocare puoi cliccare direttamente il titolo di questo post!",
             path:"https://g-quiz.vercel.app",
